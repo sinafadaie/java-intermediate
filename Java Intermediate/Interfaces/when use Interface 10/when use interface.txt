@@ -1,0 +1,19 @@
+I see people extract interface per class, and think this is best practice! its not correct.
+
+benefits of interface:
+1.swap implementations
+2.extend application
+3.test classes in isolation
+
+when you want decouple class from dependecies.
+swap implementation (between tow algorithm) without side efect on other classes. 
+
+when you use third party services.
+and there is probability to switch to different provider
+
+when you want to extend your application easily.
+create a interface and other people implement your interface
+its so extensible
+for example when you create framework to other to use,youneed this.
+
+when you want test you classes in isolation(unit testing)

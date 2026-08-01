@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Inheritance/Abstract Classes and Methods 9/Abstract Classes and Methods 9.iml" filepath="$PROJECT_DIR$/Java Intermediate/Inheritance/Abstract Classes and Methods 9/Abstract Classes and Methods 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Inheritance/Access Modifiers 4/Access Modifiers 4.iml" filepath="$PROJECT_DIR$/Java Intermediate/Inheritance/Access Modifiers 4/Access Modifiers 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Interfaces/some bad java featurs 8/Fields in Interface/Fields in Interface.iml" filepath="$PROJECT_DIR$/Java Intermediate/Interfaces/some bad java featurs 8/Fields in Interface/Fields in Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/exercise_files/exercise_files/codes/Code/Section 3- Refactoring/Finish/Finish.iml" filepath="$PROJECT_DIR$/Java Intermediate/exercise_files/exercise_files/codes/Code/Section 3- Refactoring/Finish/Finish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/exercise_files/exercise_files/codes/Code/Section 5- Interfaces/Finish/Finish2.iml" filepath="$PROJECT_DIR$/Java Intermediate/exercise_files/exercise_files/codes/Code/Section 5- Interfaces/Finish/Finish2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Interfaces/Interface Segregation Principle/Interface Segregation Principle.iml" filepath="$PROJECT_DIR$/Java Intermediate/Interfaces/Interface Segregation Principle/Interface Segregation Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Refactor Loan Project To OOP/My Try To Refactor/My Try To Refactor.iml" filepath="$PROJECT_DIR$/Java Intermediate/Refactor Loan Project To OOP/My Try To Refactor/My Try To Refactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/exercise_files/exercise_files/codes/Code/Section 5- Interfaces/Finish/MyTube/MyTube.iml" filepath="$PROJECT_DIR$/Java Intermediate/exercise_files/exercise_files/codes/Code/Section 5- Interfaces/Finish/MyTube/MyTube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Refactor Loan Project To OOP/Refactor Loan Project To OOP.iml" filepath="$PROJECT_DIR$/Java Intermediate/Refactor Loan Project To OOP/Refactor Loan Project To OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/exercise_files/exercise_files/codes/Code/Section 2- Classes/Section 2- Classes.iml" filepath="$PROJECT_DIR$/Java Intermediate/exercise_files/exercise_files/codes/Code/Section 2- Classes/Section 2- Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/exercise_files/exercise_files/codes/Code/Section 4- Inheritance/Section 4- Inheritance.iml" filepath="$PROJECT_DIR$/Java Intermediate/exercise_files/exercise_files/codes/Code/Section 4- Inheritance/Section 4- Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/exercise_files/exercise_files/codes/Code/Section 3- Refactoring/Start/Start.iml" filepath="$PROJECT_DIR$/Java Intermediate/exercise_files/exercise_files/codes/Code/Section 3- Refactoring/Start/Start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/exercise_files/exercise_files/codes/Code/Section 5- Interfaces/Start/Start2.iml" filepath="$PROJECT_DIR$/Java Intermediate/exercise_files/exercise_files/codes/Code/Section 5- Interfaces/Start/Start2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Interfaces/some bad java featurs 8/Static Methods in Interfaces/Static Methods in Interfaces.iml" filepath="$PROJECT_DIR$/Java Intermediate/Interfaces/some bad java featurs 8/Static Methods in Interfaces/Static Methods in Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Inheritance/The Object Class/The Object Class.iml" filepath="$PROJECT_DIR$/Java Intermediate/Inheritance/The Object Class/The Object Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Classes/allocating memory 2/allocating memory 2.iml" filepath="$PROJECT_DIR$/Java Intermediate/Classes/allocating memory 2/allocating memory 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Inheritance/comparing objects 7/comparing objects 7.iml" filepath="$PROJECT_DIR$/Java Intermediate/Inheritance/comparing objects 7/comparing objects 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Interfaces/construction injection 4/construction injection 4.iml" filepath="$PROJECT_DIR$/Java Intermediate/Interfaces/construction injection 4/construction injection 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Inheritance/constructor in inheritance 3/constructor in inheritance 3.iml" filepath="$PROJECT_DIR$/Java Intermediate/Inheritance/constructor in inheritance 3/constructor in inheritance 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Classes/constructors/constructors.iml" filepath="$PROJECT_DIR$/Java Intermediate/Classes/constructors/constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Classes/create classes(1)/create classes(1).iml" filepath="$PROJECT_DIR$/Java Intermediate/Classes/create classes(1)/create classes(1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Interfaces/create interface 3/create interface 3.iml" filepath="$PROJECT_DIR$/Java Intermediate/Interfaces/create interface 3/create interface 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Classes/encapsulization/encapsulization.iml" filepath="$PROJECT_DIR$/Java Intermediate/Classes/encapsulization/encapsulization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Inheritance/final clasess and methods 10/final clasess and methods 10.iml" filepath="$PROJECT_DIR$/Java Intermediate/Inheritance/final clasess and methods 10/final clasess and methods 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Classes/getter and setter 5/getter and setter 5.iml" filepath="$PROJECT_DIR$/Java Intermediate/Classes/getter and setter 5/getter and setter 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Inheritance/inheritance 1/inheritance 1.iml" filepath="$PROJECT_DIR$/Java Intermediate/Inheritance/inheritance 1/inheritance 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-intermediate.iml" filepath="$PROJECT_DIR$/.idea/java-intermediate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Interfaces/method injection/method injection.iml" filepath="$PROJECT_DIR$/Java Intermediate/Interfaces/method injection/method injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Refactor Loan Project To OOP/mosh refactor/mosh refactor.iml" filepath="$PROJECT_DIR$/Java Intermediate/Refactor Loan Project To OOP/mosh refactor/mosh refactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Interfaces/myTube compatible version 7/myTube compatible version 7.iml" filepath="$PROJECT_DIR$/Java Intermediate/Interfaces/myTube compatible version 7/myTube compatible version 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Classes/over loading method/over loading method.iml" filepath="$PROJECT_DIR$/Java Intermediate/Classes/over loading method/over loading method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Classes/over loding constructor/over loding constructor.iml" filepath="$PROJECT_DIR$/Java Intermediate/Classes/over loding constructor/over loding constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Inheritance/overriding methods 5/overriding methods 5.iml" filepath="$PROJECT_DIR$/Java Intermediate/Inheritance/overriding methods 5/overriding methods 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Inheritance/polymorphism 8/polymorphism 8.iml" filepath="$PROJECT_DIR$/Java Intermediate/Inheritance/polymorphism 8/polymorphism 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Classes/procedural pattern 3/procedural pattern 3.iml" filepath="$PROJECT_DIR$/Java Intermediate/Classes/procedural pattern 3/procedural pattern 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Classes/reduce couplin  17/reduce couplin  17.iml" filepath="$PROJECT_DIR$/Java Intermediate/Classes/reduce couplin  17/reduce couplin  17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Interfaces/setter injection 5/setter injection 5.iml" filepath="$PROJECT_DIR$/Java Intermediate/Interfaces/setter injection 5/setter injection 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Classes/static members/static members.iml" filepath="$PROJECT_DIR$/Java Intermediate/Classes/static members/static members.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Interfaces/tightly coupled code 2/tightly coupled code 2.iml" filepath="$PROJECT_DIR$/Java Intermediate/Interfaces/tightly coupled code 2/tightly coupled code 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate/Inheritance/upcasting downcasting 6/upcasting downcasting 6.iml" filepath="$PROJECT_DIR$/Java Intermediate/Inheritance/upcasting downcasting 6/upcasting downcasting 6.iml" />
+    </modules>
+  </component>
+</project>

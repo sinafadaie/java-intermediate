@@ -1,0 +1,18 @@
+we use interfaces to build application:
+
+1.loosely-coupled (prevent class interact directly(its minimized change problems)).
+
+2.extensible (because you have interface,you can extend your app easily
+	    replaces classes,code. just should respect to interface standard) .
+
+3.testable(we can test unit independent,its called unit testing
+	   its have own course)
+---------------------
+with abstraction we hide the unnecessary parts
+and reduce the coupling to classes,
+but with interfaces we can remove coupling completly.
+interface come between them.
+---------------------
+
+interface--->what should be done
+classes----->how it should be done

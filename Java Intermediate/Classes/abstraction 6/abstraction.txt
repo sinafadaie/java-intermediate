@@ -1,0 +1,15 @@
+abstraction is second principle of oop (first was encapsulization).
+
+abstraction is reduce complexity by hiding unnecessary details.
+
+maybe you have some field in your object that client doesnt need to see it.
+you should hide them.
+
+its like tv control.
+inside this control you have transistor,you have some complexity detail.
+you dont want know them. you dont want to konw under the hood.
+
+this is abstraction .
+you need just simple interface and other is black box.
+so your class must have a simple interface.
+

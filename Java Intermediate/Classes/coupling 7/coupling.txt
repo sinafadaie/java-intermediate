@@ -1,0 +1,12 @@
+
+coupling is the level of dependency between classes.
+
+when tow class work with themselves we have coupling.
+we always have coupling because classes create to work with each other,
+but we should reduce it for simple changes.
+because change a class probably influence on interacted class.
+and its create problem to maintenance for big application.
+
+
+to reduce coupling
+we should reduce unneccecarry methods(remove them or private them).

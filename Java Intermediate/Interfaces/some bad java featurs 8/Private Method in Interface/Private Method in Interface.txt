@@ -1,0 +1,5 @@
+private method in interface is the worst thing happend for java!
+Interface is a public place and just a contract,
+why you can have private?!
+wh you can add code,implement a method.
+just dont use it!

@@ -1,0 +1,19 @@
+in c++,python,....
+a class can have multiple parent!
+in java it doesnt .
+java designer for keep java simple 
+doesnt implement this feature.
+-------------------------------
+in case we have same method ,with same signature
+but defrent in impletation
+witch of them should haritate?
+------------------------------
+or we have same field
+witch one should haritate?
+------------------------------
+in java all the class haritate object class
+so we counter to dimond problem so much
+-----------------------------
+and this featur use rarly
+its yagni
+(you arnt gonna need it)!

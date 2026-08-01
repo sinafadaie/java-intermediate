@@ -1,0 +1,9 @@
+the classes can not interact directly,
+there is a interface between them.
+so they cant create object of each other in their own implemention.
+----------------------------------------------------
+if we need a instance object of another class in a specific class,
+we create that object in main
+and pass that object to the specific class
+in other word we inject that object to specific class
+its the dependency injection concept 

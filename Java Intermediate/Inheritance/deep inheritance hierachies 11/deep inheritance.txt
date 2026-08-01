@@ -1,0 +1,9 @@
+deep inheritance hierarchies is not good.
+in the case when tow class can have same field, its not mean they can heritate each other.
+its create high coupling witch we saw its a bad thing.
+changes will so hard!
+creating many meaningless field and method that heritate from a inrelevant parent!
+
+inheritance good for one or to level
+and no more than 3 levels
+beyond that,you are in wrong direction!

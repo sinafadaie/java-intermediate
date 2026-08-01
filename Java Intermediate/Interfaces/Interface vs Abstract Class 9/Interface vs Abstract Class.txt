@@ -1,0 +1,29 @@
+its a popular interview question.
+what is the difference between interfaces and abstract classes?
+in the old days this was very clear cut.
+iinterfaces are purly contracts, they have no code or implementation
+and we use them to build loosely coupled extensible and testable(unit testing) application.
+
+abstract classess in other hand  are partially implemented classes and we use them to share
+code between a few classes.
+
+however,with the bad features interduced in java over the past few years,
+the meaning of interface has changed.
+now a lot of people are abusing interfaces and sre using them as a hack to achieve 
+multiple inheritance(that java didnt want to sopurt).
+
+
+imagine you have two method in to different classes(class A and class B).
+in a third class(class c) you just can access to one of this method with heritance.
+because you can extend C  to A or B (not both of them).
+
+but if you implements that methods in interface1 and interface2 instead of A,B class,
+and the class c implement both interface1 and interface2 (**in java a class can implement multiple interface**)
+so you can access to both methods
+its abusing interface!
+
+
+people are treating these interfaces like class,they put a lot of logic there
+and then have another class,implement many of them
+its practicaly is **multiple inheritance** that we saw we better avoid multiple inheritance.
+ 

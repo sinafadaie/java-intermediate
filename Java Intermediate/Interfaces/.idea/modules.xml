@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/some bad java featurs 8/Fields in Interface/Fields in Interface.iml" filepath="$PROJECT_DIR$/some bad java featurs 8/Fields in Interface/Fields in Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface Segregation Principle/Interface Segregation Principle.iml" filepath="$PROJECT_DIR$/Interface Segregation Principle/Interface Segregation Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Interfaces.iml" filepath="$PROJECT_DIR$/.idea/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/some bad java featurs 8/Static Methods in Interfaces/Static Methods in Interfaces.iml" filepath="$PROJECT_DIR$/some bad java featurs 8/Static Methods in Interfaces/Static Methods in Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construction injection 4/construction injection 4.iml" filepath="$PROJECT_DIR$/construction injection 4/construction injection 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/create interface 3/create interface 3.iml" filepath="$PROJECT_DIR$/create interface 3/create interface 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/method injection/method injection.iml" filepath="$PROJECT_DIR$/method injection/method injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myTube compatible version 7/myTube compatible version 7.iml" filepath="$PROJECT_DIR$/myTube compatible version 7/myTube compatible version 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/setter injection 5/setter injection 5.iml" filepath="$PROJECT_DIR$/setter injection 5/setter injection 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tightly coupled code 2/tightly coupled code 2.iml" filepath="$PROJECT_DIR$/tightly coupled code 2/tightly coupled code 2.iml" />
+    </modules>
+  </component>
+</project>
