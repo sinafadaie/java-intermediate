@@ -12,8 +12,9 @@ or we have same field
 witch one should haritate?
 ------------------------------
 in java all the class haritate object class
-so we counter to dimond problem so much
------------------------------
-and this featur use rarly
-its yagni
-(you arnt gonna need it)!
+so if java support the multiple inheritance
+we will counter to dimond problem so much!          //diamond problem is
+-----------------------------                       //we have class A (like Object class)
+and this featur use rarly                           //then class B,C extended to A (and override a method)
+its yagni                                           //then class D extend to B and C simultaneously
+(you arnt gonna need it)!                           //he should inherit that method from witch class? B or C?

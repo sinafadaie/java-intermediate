@@ -1,7 +1,7 @@
 import java.util.Objects;
 
 //equals method get Object class, but we want to pass Point class to it
-//if we change signature,it will not be a overriding
+//if we change signature,it will not be an overriding
 //it will a different method,with different parameter
 //--------------------------------
 //in best practice if we override equal method,we should override hash method

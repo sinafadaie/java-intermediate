@@ -3,8 +3,9 @@
 //and equality and comparing objects use address too
 //so if we change equal method
 //we should change hash method to get same value(based on content)
+
 public class Main{
-    public void main(){
+    public void main(String[] args){
         var point1 = new Point(1,2);
         var point2 = new Point(1,2);
         System.out.println(point1==point2);  //because they are tow different object
