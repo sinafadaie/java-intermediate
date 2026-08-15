@@ -5,6 +5,10 @@ import java.util.Objects;
 //it will a different method,with different parameter
 //--------------------------------
 //in best practice if we override equal method,we should override hash method
+//why?
+//because Structures like HashMap and HashSet
+//first use hashCode to find the bucket.
+//so they will not work correctly!
 //we can use generate to override equal and hash
 //its cool
 public class Point {
