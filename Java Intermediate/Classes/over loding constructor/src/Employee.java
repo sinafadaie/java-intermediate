@@ -20,6 +20,7 @@ public class Employee {
                                         //just (this) mean the full object
                                         //so we can construct the object with this
                                         //actually we use **pre constructor** in new constructor
+                                        //we call this "CONSTRUCTOR CHAINING"
    }
 
     private void setBaseSalary(int baseSalary){
