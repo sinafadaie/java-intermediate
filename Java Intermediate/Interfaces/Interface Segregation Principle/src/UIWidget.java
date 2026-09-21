@@ -13,7 +13,7 @@
 //so in this case it inheritate one of them
 //-----------------------
 //at the ane UIWidget can access to all the method we declared at first
-public interface UIWidget{
+public interface UIWidget extends Resizable, Draggable{
     //void drag();   shifted to another interface by refactor(extract interface)
     //void resize(); shifted to another interface by refactor
     //
