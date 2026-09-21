@@ -8,10 +8,10 @@ we can implement a interface
 in a multiple classes
 its the main idea of interfaces
 -------------------------
-some times we extend a interface to the other
-its clear that we dont need implement the methods
-it just inheritance
-and a interface can inherit from multiple interfaces
+if interface A extends to interface B, then A includes all methods of B.
+So if class C implements A, it must implement:
+methods declared in A
+methods inherited by A from B
 -------------------------
 a class just can implement interfaces,
 a class can not extend to a interface
