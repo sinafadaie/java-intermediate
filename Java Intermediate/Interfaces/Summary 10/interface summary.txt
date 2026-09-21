@@ -12,6 +12,7 @@ if interface A extends to interface B, then A includes all methods of B.
 So if class C implements A, it must implement:
 methods declared in A
 methods inherited by A from B
+we use this feature for "INTERFACE SEGREGATION"
 -------------------------
 a class just can implement interfaces,
 a class can not extend to a interface
